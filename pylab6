@@ -159,12 +159,13 @@
 
 # sorted_shopping_list = sort_by_price(shopping_list)
 # print(sorted_shopping_list)
-def get_words_starting_with_vowel(words):
-    return [word for word in words if word[0].lower() in ['a', 'e', 'i', 'o', 'u']]
+# print("TASK 13")
+#def get_words_starting_with_vowel(words):
+#    return [word for word in words if word[0].lower() in ['a', 'e', 'i', 'o', 'u']]
 
-word_list = ["apple", "banana", "orange", "bear", "cat"]
-result = get_words_starting_with_vowel(word_list)
-print(result)  
+#word_list = ["apple", "banana", "orange", "bear", "cat"]
+#result = get_words_starting_with_vowel(word_list)
+#print(result)  
 
 
 
