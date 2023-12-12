@@ -1,4 +1,4 @@
-# print("task 1")
+print("task 1")
 # def get_keys_with_value_true(dictionary):
 #     keys = []
 #     for key in dictionary:
